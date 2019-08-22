@@ -5,7 +5,7 @@ const routes = require('./routes');
 
 const PORT = 3333;
 
-mongoose.connect('mongodb+srv://elbert:dwp@ssw0rd@cluster0-tsw0x.mongodb.net/tindev?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://elbert:Elbert1680A@cluster0-tsw0x.mongodb.net/tindev?retryWrites=true&w=majority', {
   useNewUrlParser: true
 });
 
